@@ -1,1 +1,1 @@
-Hi, I'm Annie, a dev learning C++ and Python. Currently interested in graphics programming.
+Hi, I code and stuff. Work with C++ and python.
